@@ -1,0 +1,6 @@
+show dkaskdaskda
+info
+clear
+show jdasnjdnas
+info
+average_of_height
